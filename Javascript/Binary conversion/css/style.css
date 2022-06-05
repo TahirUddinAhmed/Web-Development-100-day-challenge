@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+    padding: 3% 0;
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+.navbar{
+    color: #fff;
+}
+.main{
+    padding: 7% 15%;
+    min-height: 500px;
+}
+.input-group{
+    padding: 15px 0;
+}
+#input-el{
+    padding: 2% 3%;
+    font-size: 1.2rem;
+}
+#convert-btn{
+    padding: 7px 5%;
+}
+#result{
+    padding: 2% 3%;
+    font-size: 1.2rem;
+}
+
+/* Footer section */
+#footer{
+    background-color: aliceblue;
+}
+.footer-item{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footer-icon{
+    text-decoration: none;
+    padding:0  1%;
+    font-size: 1.2rem;
+}

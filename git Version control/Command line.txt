@@ -1,0 +1,32 @@
+Commad line -
+  
+ bash = Bourne Again Shell
+
+Some inportant commnd line -
+  1. ls = stands for list 
+ 2. cd = stands for change directory
+ 3. mkdir = stand for make directory
+ 4. touch = create a file 
+ 5. start = open a file
+ 6. rm = to remove/delete a file 
+           ( to remove all the file use rm * )
+      rm -r = remove/delete directory
+ 7. pwd = find the directory
+ 8. git init = create an empty Git repository or reinitialize an existing one 
+ 9. git status = show the working tree status
+10. git add = Add file contents to the index
+11. git commit -m = record changes tothe repository
+12. git diff = Show Changes between commits, commit and working tree, etc
+13. git checkout = The term checkout is used for the act of switching between different versions of a target entity.
+14. git remote add origin "link"
+15. git push -u origin master
+16.git rm --cached -r .  = remove all the  files 
+
+shrot keys 
+  ctrl + a = begginning of the line 
+  ctrl + e = end of the line 
+  ctrl + u = clear the command line 
+
+Clone gitHub repositories
+   command 
+     1. git clone <url>
